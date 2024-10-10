@@ -27,6 +27,21 @@ int main(){
     cin >> MetrosMedia;
     cout << "Introduzca los metros de alta calidad: ";
     cin >> MetrosAlta;
+    
+    //Calculo de los precios
+    TotalMedia = MetrosMedia * PrecioMedia;
+    TotalAlta = MetrosAlta * PrecioAlta;
+    Total = TotalAlta + TotalMedia;
+
+    //Presentación por consola de los precios y durabilidad del presupuesto.
+    cout << "El precio de la tarima de calidad media es de: ";
+    cout << TotalMedia << endl;
+    cout << "El p recio de la tarima de calidad superior es de: ";
+    cout << TotalAlta << endl;
+    cout << "El presupuesto total para la instalación de la tarima es de: ";
+    cout << Total << endl;
+
+    cout << "El prepupuesto será válido durante los próximos días a partir de la emisión del mismo.";
 
 }
 
