@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\bin\Debug\net8.0-windows\click.exe
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\bin\Debug\net8.0-windows\click.deps.json
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\bin\Debug\net8.0-windows\click.runtimeconfig.json
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\bin\Debug\net8.0-windows\click.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\bin\Debug\net8.0-windows\click.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\obj\Debug\net8.0-windows\click.Form1.resources
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\obj\Debug\net8.0-windows\click.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\obj\Debug\net8.0-windows\click.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\obj\Debug\net8.0-windows\click.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\obj\Debug\net8.0-windows\click.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\obj\Debug\net8.0-windows\click.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\obj\Debug\net8.0-windows\click.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\obj\Debug\net8.0-windows\refint\click.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\obj\Debug\net8.0-windows\click.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\obj\Debug\net8.0-windows\click.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\click\click\obj\Debug\net8.0-windows\ref\click.dll

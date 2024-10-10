@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\bin\Debug\net8.0-windows\keypress.exe
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\bin\Debug\net8.0-windows\keypress.deps.json
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\bin\Debug\net8.0-windows\keypress.runtimeconfig.json
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\bin\Debug\net8.0-windows\keypress.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\bin\Debug\net8.0-windows\keypress.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\obj\Debug\net8.0-windows\keypress.Form1.resources
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\obj\Debug\net8.0-windows\keypress.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\obj\Debug\net8.0-windows\keypress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\obj\Debug\net8.0-windows\keypress.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\obj\Debug\net8.0-windows\keypress.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\obj\Debug\net8.0-windows\keypress.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\obj\Debug\net8.0-windows\keypress.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\obj\Debug\net8.0-windows\refint\keypress.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\obj\Debug\net8.0-windows\keypress.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\obj\Debug\net8.0-windows\keypress.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\keypress\keypress\obj\Debug\net8.0-windows\ref\keypress.dll

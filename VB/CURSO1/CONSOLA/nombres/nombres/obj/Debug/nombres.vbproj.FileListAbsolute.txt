@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\nombres\nombres\bin\Debug\nombres.exe.config
+C:\Users\angel\Documents\programming\nombres\nombres\bin\Debug\nombres.exe
+C:\Users\angel\Documents\programming\nombres\nombres\bin\Debug\nombres.pdb
+C:\Users\angel\Documents\programming\nombres\nombres\bin\Debug\nombres.xml
+C:\Users\angel\Documents\programming\nombres\nombres\obj\Debug\nombres.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\nombres\nombres\obj\Debug\nombres.Resources.resources
+C:\Users\angel\Documents\programming\nombres\nombres\obj\Debug\nombres.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\nombres\nombres\obj\Debug\nombres.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\nombres\nombres\obj\Debug\nombres.exe
+C:\Users\angel\Documents\programming\nombres\nombres\obj\Debug\nombres.xml
+C:\Users\angel\Documents\programming\nombres\nombres\obj\Debug\nombres.pdb

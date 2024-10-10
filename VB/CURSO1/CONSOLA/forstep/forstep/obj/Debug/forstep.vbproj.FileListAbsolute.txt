@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\forstep\forstep\bin\Debug\forstep.exe.config
+C:\Users\angel\Documents\programming\forstep\forstep\bin\Debug\forstep.exe
+C:\Users\angel\Documents\programming\forstep\forstep\bin\Debug\forstep.pdb
+C:\Users\angel\Documents\programming\forstep\forstep\bin\Debug\forstep.xml
+C:\Users\angel\Documents\programming\forstep\forstep\obj\Debug\forstep.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\forstep\forstep\obj\Debug\forstep.Resources.resources
+C:\Users\angel\Documents\programming\forstep\forstep\obj\Debug\forstep.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\forstep\forstep\obj\Debug\forstep.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\forstep\forstep\obj\Debug\forstep.exe
+C:\Users\angel\Documents\programming\forstep\forstep\obj\Debug\forstep.xml
+C:\Users\angel\Documents\programming\forstep\forstep\obj\Debug\forstep.pdb

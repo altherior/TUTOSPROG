@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\promaltura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE0E76F-237B-4030-972B-69F89D2AB224}|promaltura\\promaltura.vbproj|c:\\users\\angel\\documents\\programming\\promaltura\\promaltura\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9EE0E76F-237B-4030-972B-69F89D2AB224}|promaltura\\promaltura.vbproj|solutionrelative:promaltura\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\promaltura\\promaltura\\Module1.vb",
+              "RelativeDocumentMoniker": "promaltura\\Module1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\promaltura\\promaltura\\Module1.vb",
+              "RelativeToolTip": "promaltura\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-04T15:52:16.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

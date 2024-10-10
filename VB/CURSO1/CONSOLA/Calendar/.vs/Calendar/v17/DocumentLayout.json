@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\Calendar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E031116E-E87D-4477-A714-4550CFF5A257}|Calendar\\Calendar.vbproj|c:\\users\\angel\\documents\\programming\\calendar\\calendar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E031116E-E87D-4477-A714-4550CFF5A257}|Calendar\\Calendar.vbproj|solutionrelative:calendar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E031116E-E87D-4477-A714-4550CFF5A257}|Calendar\\Calendar.vbproj|c:\\users\\angel\\documents\\programming\\calendar\\calendar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E031116E-E87D-4477-A714-4550CFF5A257}|Calendar\\Calendar.vbproj|solutionrelative:calendar\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E031116E-E87D-4477-A714-4550CFF5A257}|Calendar\\Calendar.vbproj|c:\\users\\angel\\documents\\programming\\calendar\\calendar\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E031116E-E87D-4477-A714-4550CFF5A257}|Calendar\\Calendar.vbproj|solutionrelative:calendar\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\Calendar\\Calendar\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Calendar\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\Calendar\\Calendar\\Form1.Designer.vb",
+              "RelativeToolTip": "Calendar\\Form1.Designer.vb",
+              "ViewState": "AgIAADYAAAAAAAAAAAAhwEYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T13:07:13.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\Calendar\\Calendar\\Form1.vb",
+              "RelativeDocumentMoniker": "Calendar\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\Calendar\\Calendar\\Form1.vb",
+              "RelativeToolTip": "Calendar\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T11:58:36.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\Calendar\\Calendar\\Form1.vb",
+              "RelativeDocumentMoniker": "Calendar\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\Calendar\\Calendar\\Form1.vb [Design]",
+              "RelativeToolTip": "Calendar\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T11:53:06.472Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

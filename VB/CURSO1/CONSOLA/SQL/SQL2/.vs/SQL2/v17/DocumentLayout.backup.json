@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO1\\CONSOLA\\SQL\\SQL2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DB03E-F854-4D86-9C3E-201EEDBD8C6A}|SQL2\\SQL2.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso1\\consola\\sql\\sql2\\sql2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BE0DB03E-F854-4D86-9C3E-201EEDBD8C6A}|SQL2\\SQL2.vbproj|solutionrelative:sql2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DB03E-F854-4D86-9C3E-201EEDBD8C6A}|SQL2\\SQL2.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso1\\consola\\sql\\sql2\\sql2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BE0DB03E-F854-4D86-9C3E-201EEDBD8C6A}|SQL2\\SQL2.vbproj|solutionrelative:sql2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO1\\CONSOLA\\SQL\\SQL2\\SQL2\\Form1.vb",
+              "RelativeDocumentMoniker": "SQL2\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO1\\CONSOLA\\SQL\\SQL2\\SQL2\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "SQL2\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-18T12:06:35.088Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO1\\CONSOLA\\SQL\\SQL2\\SQL2\\Form1.vb",
+              "RelativeDocumentMoniker": "SQL2\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO1\\CONSOLA\\SQL\\SQL2\\SQL2\\Form1.vb",
+              "RelativeToolTip": "SQL2\\Form1.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-18T12:11:02.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

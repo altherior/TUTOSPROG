@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\multiplo8\multiplo8\bin\Debug\multiplo8.exe.config
+C:\Users\angel\Documents\programming\multiplo8\multiplo8\bin\Debug\multiplo8.exe
+C:\Users\angel\Documents\programming\multiplo8\multiplo8\bin\Debug\multiplo8.pdb
+C:\Users\angel\Documents\programming\multiplo8\multiplo8\bin\Debug\multiplo8.xml
+C:\Users\angel\Documents\programming\multiplo8\multiplo8\obj\Debug\multiplo8.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\multiplo8\multiplo8\obj\Debug\multiplo8.Resources.resources
+C:\Users\angel\Documents\programming\multiplo8\multiplo8\obj\Debug\multiplo8.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\multiplo8\multiplo8\obj\Debug\multiplo8.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\multiplo8\multiplo8\obj\Debug\multiplo8.exe
+C:\Users\angel\Documents\programming\multiplo8\multiplo8\obj\Debug\multiplo8.xml
+C:\Users\angel\Documents\programming\multiplo8\multiplo8\obj\Debug\multiplo8.pdb

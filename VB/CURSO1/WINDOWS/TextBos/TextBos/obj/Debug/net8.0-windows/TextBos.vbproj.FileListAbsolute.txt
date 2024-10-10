@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\bin\Debug\net8.0-windows\TextBos.exe
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\bin\Debug\net8.0-windows\TextBos.deps.json
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\bin\Debug\net8.0-windows\TextBos.runtimeconfig.json
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\bin\Debug\net8.0-windows\TextBos.dll
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\bin\Debug\net8.0-windows\TextBos.pdb
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\obj\Debug\net8.0-windows\TextBos.Form1.resources
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\obj\Debug\net8.0-windows\TextBos.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\obj\Debug\net8.0-windows\TextBos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\obj\Debug\net8.0-windows\TextBos.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\obj\Debug\net8.0-windows\TextBos.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\obj\Debug\net8.0-windows\TextBos.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\obj\Debug\net8.0-windows\TextBos.dll
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\obj\Debug\net8.0-windows\refint\TextBos.dll
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\obj\Debug\net8.0-windows\TextBos.pdb
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\obj\Debug\net8.0-windows\TextBos.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\WINDOWS\TextBos\TextBos\obj\Debug\net8.0-windows\ref\TextBos.dll

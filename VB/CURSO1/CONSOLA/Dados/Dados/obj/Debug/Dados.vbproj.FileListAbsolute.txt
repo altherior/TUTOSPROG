@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\Dados\Dados\bin\Debug\Dados.exe.config
+C:\Users\angel\Documents\programming\Dados\Dados\bin\Debug\Dados.exe
+C:\Users\angel\Documents\programming\Dados\Dados\bin\Debug\Dados.pdb
+C:\Users\angel\Documents\programming\Dados\Dados\bin\Debug\Dados.xml
+C:\Users\angel\Documents\programming\Dados\Dados\obj\Debug\Dados.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\Dados\Dados\obj\Debug\Dados.Resources.resources
+C:\Users\angel\Documents\programming\Dados\Dados\obj\Debug\Dados.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\Dados\Dados\obj\Debug\Dados.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\Dados\Dados\obj\Debug\Dados.exe
+C:\Users\angel\Documents\programming\Dados\Dados\obj\Debug\Dados.xml
+C:\Users\angel\Documents\programming\Dados\Dados\obj\Debug\Dados.pdb

@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\media5ultimos\media5ultimos\bin\Debug\media5ultimos.exe.config
+C:\Users\angel\Documents\programming\media5ultimos\media5ultimos\bin\Debug\media5ultimos.exe
+C:\Users\angel\Documents\programming\media5ultimos\media5ultimos\bin\Debug\media5ultimos.pdb
+C:\Users\angel\Documents\programming\media5ultimos\media5ultimos\bin\Debug\media5ultimos.xml
+C:\Users\angel\Documents\programming\media5ultimos\media5ultimos\obj\Debug\media5ultimos.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\media5ultimos\media5ultimos\obj\Debug\media5ultimos.Resources.resources
+C:\Users\angel\Documents\programming\media5ultimos\media5ultimos\obj\Debug\media5ultimos.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\media5ultimos\media5ultimos\obj\Debug\media5ultimos.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\media5ultimos\media5ultimos\obj\Debug\media5ultimos.exe
+C:\Users\angel\Documents\programming\media5ultimos\media5ultimos\obj\Debug\media5ultimos.xml
+C:\Users\angel\Documents\programming\media5ultimos\media5ultimos\obj\Debug\media5ultimos.pdb

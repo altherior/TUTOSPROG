@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\bin\Debug\net8.0-windows\onlyCharacteres.exe
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\bin\Debug\net8.0-windows\onlyCharacteres.deps.json
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\bin\Debug\net8.0-windows\onlyCharacteres.runtimeconfig.json
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\bin\Debug\net8.0-windows\onlyCharacteres.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\bin\Debug\net8.0-windows\onlyCharacteres.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\obj\Debug\net8.0-windows\onlyCharacteres.Form1.resources
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\obj\Debug\net8.0-windows\onlyCharacteres.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\obj\Debug\net8.0-windows\onlyCharacteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\obj\Debug\net8.0-windows\onlyCharacteres.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\obj\Debug\net8.0-windows\onlyCharacteres.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\obj\Debug\net8.0-windows\onlyCharacteres.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\obj\Debug\net8.0-windows\onlyCharacteres.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\obj\Debug\net8.0-windows\refint\onlyCharacteres.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\obj\Debug\net8.0-windows\onlyCharacteres.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\obj\Debug\net8.0-windows\onlyCharacteres.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\onlyCharacteres\onlyCharacteres\obj\Debug\net8.0-windows\ref\onlyCharacteres.dll

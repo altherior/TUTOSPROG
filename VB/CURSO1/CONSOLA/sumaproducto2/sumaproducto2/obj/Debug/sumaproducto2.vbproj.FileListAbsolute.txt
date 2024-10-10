@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\sumaproducto2\sumaproducto2\bin\Debug\sumaproducto2.exe.config
+C:\Users\angel\Documents\programming\sumaproducto2\sumaproducto2\bin\Debug\sumaproducto2.exe
+C:\Users\angel\Documents\programming\sumaproducto2\sumaproducto2\bin\Debug\sumaproducto2.pdb
+C:\Users\angel\Documents\programming\sumaproducto2\sumaproducto2\bin\Debug\sumaproducto2.xml
+C:\Users\angel\Documents\programming\sumaproducto2\sumaproducto2\obj\Debug\sumaproducto2.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\sumaproducto2\sumaproducto2\obj\Debug\sumaproducto2.Resources.resources
+C:\Users\angel\Documents\programming\sumaproducto2\sumaproducto2\obj\Debug\sumaproducto2.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\sumaproducto2\sumaproducto2\obj\Debug\sumaproducto2.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\sumaproducto2\sumaproducto2\obj\Debug\sumaproducto2.exe
+C:\Users\angel\Documents\programming\sumaproducto2\sumaproducto2\obj\Debug\sumaproducto2.xml
+C:\Users\angel\Documents\programming\sumaproducto2\sumaproducto2\obj\Debug\sumaproducto2.pdb

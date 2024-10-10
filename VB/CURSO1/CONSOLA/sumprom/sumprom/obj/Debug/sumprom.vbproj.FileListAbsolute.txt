@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\sumprom\sumprom\bin\Debug\sumprom.exe.config
+C:\Users\angel\Documents\programming\sumprom\sumprom\bin\Debug\sumprom.exe
+C:\Users\angel\Documents\programming\sumprom\sumprom\bin\Debug\sumprom.pdb
+C:\Users\angel\Documents\programming\sumprom\sumprom\bin\Debug\sumprom.xml
+C:\Users\angel\Documents\programming\sumprom\sumprom\obj\Debug\sumprom.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\sumprom\sumprom\obj\Debug\sumprom.Resources.resources
+C:\Users\angel\Documents\programming\sumprom\sumprom\obj\Debug\sumprom.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\sumprom\sumprom\obj\Debug\sumprom.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\sumprom\sumprom\obj\Debug\sumprom.exe
+C:\Users\angel\Documents\programming\sumprom\sumprom\obj\Debug\sumprom.xml
+C:\Users\angel\Documents\programming\sumprom\sumprom\obj\Debug\sumprom.pdb

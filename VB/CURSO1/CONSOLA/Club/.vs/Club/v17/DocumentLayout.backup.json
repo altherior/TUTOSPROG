@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\Club\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB80D48-5A7B-43E9-B773-AC2551653A41}|Club\\Club.vbproj|c:\\users\\angel\\documents\\programming\\club\\club\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB80D48-5A7B-43E9-B773-AC2551653A41}|Club\\Club.vbproj|solutionrelative:club\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\Club\\Club\\Module1.vb",
+              "RelativeDocumentMoniker": "Club\\Module1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\Club\\Club\\Module1.vb*",
+              "RelativeToolTip": "Club\\Module1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-15T00:49:21.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

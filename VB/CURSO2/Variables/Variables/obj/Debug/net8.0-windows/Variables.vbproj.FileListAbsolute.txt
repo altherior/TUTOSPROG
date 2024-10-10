@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\bin\Debug\net8.0-windows\Variables.exe
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\bin\Debug\net8.0-windows\Variables.deps.json
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\bin\Debug\net8.0-windows\Variables.runtimeconfig.json
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\bin\Debug\net8.0-windows\Variables.dll
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\bin\Debug\net8.0-windows\Variables.pdb
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\obj\Debug\net8.0-windows\Variables.Form1.resources
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\obj\Debug\net8.0-windows\Variables.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\obj\Debug\net8.0-windows\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\obj\Debug\net8.0-windows\Variables.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\obj\Debug\net8.0-windows\Variables.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\obj\Debug\net8.0-windows\Variables.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\obj\Debug\net8.0-windows\Variables.dll
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\obj\Debug\net8.0-windows\refint\Variables.dll
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\obj\Debug\net8.0-windows\Variables.pdb
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\obj\Debug\net8.0-windows\Variables.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\CURSO2\Variables\Variables\obj\Debug\net8.0-windows\ref\Variables.dll

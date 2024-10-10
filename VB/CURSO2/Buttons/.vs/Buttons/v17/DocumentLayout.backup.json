@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Buttons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F02E6A08-DF0B-4787-8D64-F400C2A73444}|Buttons\\Buttons.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso2\\buttons\\buttons\\formcalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F02E6A08-DF0B-4787-8D64-F400C2A73444}|Buttons\\Buttons.vbproj|solutionrelative:buttons\\formcalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02E6A08-DF0B-4787-8D64-F400C2A73444}|Buttons\\Buttons.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso2\\buttons\\buttons\\formcalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F02E6A08-DF0B-4787-8D64-F400C2A73444}|Buttons\\Buttons.vbproj|solutionrelative:buttons\\formcalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCalculator.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Buttons\\Buttons\\FormCalculator.vb",
+              "RelativeDocumentMoniker": "Buttons\\FormCalculator.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Buttons\\Buttons\\FormCalculator.vb*",
+              "RelativeToolTip": "Buttons\\FormCalculator.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-23T01:25:40.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCalculator.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Buttons\\Buttons\\FormCalculator.vb",
+              "RelativeDocumentMoniker": "Buttons\\FormCalculator.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Buttons\\Buttons\\FormCalculator.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "Buttons\\FormCalculator.vb [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-23T01:24:14.039Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

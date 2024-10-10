@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\piezaspeso\piezaspeso\bin\Debug\piezaspeso.exe.config
+C:\Users\angel\Documents\programming\piezaspeso\piezaspeso\bin\Debug\piezaspeso.exe
+C:\Users\angel\Documents\programming\piezaspeso\piezaspeso\bin\Debug\piezaspeso.pdb
+C:\Users\angel\Documents\programming\piezaspeso\piezaspeso\bin\Debug\piezaspeso.xml
+C:\Users\angel\Documents\programming\piezaspeso\piezaspeso\obj\Debug\piezaspeso.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\piezaspeso\piezaspeso\obj\Debug\piezaspeso.Resources.resources
+C:\Users\angel\Documents\programming\piezaspeso\piezaspeso\obj\Debug\piezaspeso.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\piezaspeso\piezaspeso\obj\Debug\piezaspeso.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\piezaspeso\piezaspeso\obj\Debug\piezaspeso.exe
+C:\Users\angel\Documents\programming\piezaspeso\piezaspeso\obj\Debug\piezaspeso.xml
+C:\Users\angel\Documents\programming\piezaspeso\piezaspeso\obj\Debug\piezaspeso.pdb

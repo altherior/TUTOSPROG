@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\compra\compra\bin\Debug\compra.exe.config
+C:\Users\angel\Documents\programming\compra\compra\bin\Debug\compra.exe
+C:\Users\angel\Documents\programming\compra\compra\bin\Debug\compra.pdb
+C:\Users\angel\Documents\programming\compra\compra\bin\Debug\compra.xml
+C:\Users\angel\Documents\programming\compra\compra\obj\Debug\compra.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\compra\compra\obj\Debug\compra.Resources.resources
+C:\Users\angel\Documents\programming\compra\compra\obj\Debug\compra.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\compra\compra\obj\Debug\compra.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\compra\compra\obj\Debug\compra.exe
+C:\Users\angel\Documents\programming\compra\compra\obj\Debug\compra.xml
+C:\Users\angel\Documents\programming\compra\compra\obj\Debug\compra.pdb

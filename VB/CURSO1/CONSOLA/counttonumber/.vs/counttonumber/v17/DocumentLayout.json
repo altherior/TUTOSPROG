@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\counttonumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12C678CF-ED50-4A4C-8D5B-67FA2224E0C0}|counttonumber\\counttonumber.vbproj|c:\\users\\angel\\documents\\programming\\counttonumber\\counttonumber\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{12C678CF-ED50-4A4C-8D5B-67FA2224E0C0}|counttonumber\\counttonumber.vbproj|solutionrelative:counttonumber\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\counttonumber\\counttonumber\\Module1.vb",
+              "RelativeDocumentMoniker": "counttonumber\\Module1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\counttonumber\\counttonumber\\Module1.vb",
+              "RelativeToolTip": "counttonumber\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-04T11:23:18.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

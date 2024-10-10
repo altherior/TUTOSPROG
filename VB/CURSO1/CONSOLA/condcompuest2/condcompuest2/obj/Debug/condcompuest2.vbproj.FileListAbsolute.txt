@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\condcompuest2\condcompuest2\bin\Debug\condcompuest2.exe.config
+C:\Users\angel\Documents\programming\condcompuest2\condcompuest2\bin\Debug\condcompuest2.exe
+C:\Users\angel\Documents\programming\condcompuest2\condcompuest2\bin\Debug\condcompuest2.pdb
+C:\Users\angel\Documents\programming\condcompuest2\condcompuest2\bin\Debug\condcompuest2.xml
+C:\Users\angel\Documents\programming\condcompuest2\condcompuest2\obj\Debug\condcompuest2.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\condcompuest2\condcompuest2\obj\Debug\condcompuest2.Resources.resources
+C:\Users\angel\Documents\programming\condcompuest2\condcompuest2\obj\Debug\condcompuest2.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\condcompuest2\condcompuest2\obj\Debug\condcompuest2.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\condcompuest2\condcompuest2\obj\Debug\condcompuest2.exe
+C:\Users\angel\Documents\programming\condcompuest2\condcompuest2\obj\Debug\condcompuest2.xml
+C:\Users\angel\Documents\programming\condcompuest2\condcompuest2\obj\Debug\condcompuest2.pdb

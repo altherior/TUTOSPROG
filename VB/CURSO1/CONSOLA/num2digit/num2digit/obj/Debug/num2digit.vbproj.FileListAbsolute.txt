@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\num2digit\num2digit\bin\Debug\num2digit.exe.config
+C:\Users\angel\Documents\programming\num2digit\num2digit\bin\Debug\num2digit.exe
+C:\Users\angel\Documents\programming\num2digit\num2digit\bin\Debug\num2digit.pdb
+C:\Users\angel\Documents\programming\num2digit\num2digit\bin\Debug\num2digit.xml
+C:\Users\angel\Documents\programming\num2digit\num2digit\obj\Debug\num2digit.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\num2digit\num2digit\obj\Debug\num2digit.Resources.resources
+C:\Users\angel\Documents\programming\num2digit\num2digit\obj\Debug\num2digit.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\num2digit\num2digit\obj\Debug\num2digit.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\num2digit\num2digit\obj\Debug\num2digit.exe
+C:\Users\angel\Documents\programming\num2digit\num2digit\obj\Debug\num2digit.xml
+C:\Users\angel\Documents\programming\num2digit\num2digit\obj\Debug\num2digit.pdb

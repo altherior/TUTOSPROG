@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\cuadrado\cuadrado\bin\Debug\cuadrado.exe.config
+C:\Users\angel\Documents\programming\cuadrado\cuadrado\bin\Debug\cuadrado.exe
+C:\Users\angel\Documents\programming\cuadrado\cuadrado\bin\Debug\cuadrado.pdb
+C:\Users\angel\Documents\programming\cuadrado\cuadrado\bin\Debug\cuadrado.xml
+C:\Users\angel\Documents\programming\cuadrado\cuadrado\obj\Debug\cuadrado.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\cuadrado\cuadrado\obj\Debug\cuadrado.Resources.resources
+C:\Users\angel\Documents\programming\cuadrado\cuadrado\obj\Debug\cuadrado.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\cuadrado\cuadrado\obj\Debug\cuadrado.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\cuadrado\cuadrado\obj\Debug\cuadrado.exe
+C:\Users\angel\Documents\programming\cuadrado\cuadrado\obj\Debug\cuadrado.xml
+C:\Users\angel\Documents\programming\cuadrado\cuadrado\obj\Debug\cuadrado.pdb

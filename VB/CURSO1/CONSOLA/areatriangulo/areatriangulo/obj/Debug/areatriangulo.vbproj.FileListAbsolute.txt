@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\areatriangulo\areatriangulo\bin\Debug\areatriangulo.exe.config
+C:\Users\angel\Documents\programming\areatriangulo\areatriangulo\bin\Debug\areatriangulo.exe
+C:\Users\angel\Documents\programming\areatriangulo\areatriangulo\bin\Debug\areatriangulo.pdb
+C:\Users\angel\Documents\programming\areatriangulo\areatriangulo\bin\Debug\areatriangulo.xml
+C:\Users\angel\Documents\programming\areatriangulo\areatriangulo\obj\Debug\areatriangulo.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\areatriangulo\areatriangulo\obj\Debug\areatriangulo.Resources.resources
+C:\Users\angel\Documents\programming\areatriangulo\areatriangulo\obj\Debug\areatriangulo.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\areatriangulo\areatriangulo\obj\Debug\areatriangulo.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\areatriangulo\areatriangulo\obj\Debug\areatriangulo.exe
+C:\Users\angel\Documents\programming\areatriangulo\areatriangulo\obj\Debug\areatriangulo.xml
+C:\Users\angel\Documents\programming\areatriangulo\areatriangulo\obj\Debug\areatriangulo.pdb

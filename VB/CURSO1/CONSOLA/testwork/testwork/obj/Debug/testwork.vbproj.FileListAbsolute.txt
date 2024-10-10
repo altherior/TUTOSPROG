@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\testwork\testwork\bin\Debug\testwork.exe.config
+C:\Users\angel\Documents\programming\testwork\testwork\bin\Debug\testwork.exe
+C:\Users\angel\Documents\programming\testwork\testwork\bin\Debug\testwork.pdb
+C:\Users\angel\Documents\programming\testwork\testwork\bin\Debug\testwork.xml
+C:\Users\angel\Documents\programming\testwork\testwork\obj\Debug\testwork.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\testwork\testwork\obj\Debug\testwork.Resources.resources
+C:\Users\angel\Documents\programming\testwork\testwork\obj\Debug\testwork.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\testwork\testwork\obj\Debug\testwork.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\testwork\testwork\obj\Debug\testwork.exe
+C:\Users\angel\Documents\programming\testwork\testwork\obj\Debug\testwork.xml
+C:\Users\angel\Documents\programming\testwork\testwork\obj\Debug\testwork.pdb

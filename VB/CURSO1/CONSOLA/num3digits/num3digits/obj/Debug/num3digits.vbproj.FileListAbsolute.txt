@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\num3digits\num3digits\bin\Debug\num3digits.exe.config
+C:\Users\angel\Documents\programming\num3digits\num3digits\bin\Debug\num3digits.exe
+C:\Users\angel\Documents\programming\num3digits\num3digits\bin\Debug\num3digits.pdb
+C:\Users\angel\Documents\programming\num3digits\num3digits\bin\Debug\num3digits.xml
+C:\Users\angel\Documents\programming\num3digits\num3digits\obj\Debug\num3digits.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\num3digits\num3digits\obj\Debug\num3digits.Resources.resources
+C:\Users\angel\Documents\programming\num3digits\num3digits\obj\Debug\num3digits.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\num3digits\num3digits\obj\Debug\num3digits.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\num3digits\num3digits\obj\Debug\num3digits.exe
+C:\Users\angel\Documents\programming\num3digits\num3digits\obj\Debug\num3digits.xml
+C:\Users\angel\Documents\programming\num3digits\num3digits\obj\Debug\num3digits.pdb

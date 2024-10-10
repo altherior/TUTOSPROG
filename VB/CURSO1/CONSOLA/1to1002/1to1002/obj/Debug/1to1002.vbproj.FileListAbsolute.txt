@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\1to1002\1to1002\bin\Debug\1to1002.exe.config
+C:\Users\angel\Documents\programming\1to1002\1to1002\bin\Debug\1to1002.exe
+C:\Users\angel\Documents\programming\1to1002\1to1002\bin\Debug\1to1002.pdb
+C:\Users\angel\Documents\programming\1to1002\1to1002\bin\Debug\1to1002.xml
+C:\Users\angel\Documents\programming\1to1002\1to1002\obj\Debug\1to1002.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\1to1002\1to1002\obj\Debug\_1to1002.Resources.resources
+C:\Users\angel\Documents\programming\1to1002\1to1002\obj\Debug\1to1002.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\1to1002\1to1002\obj\Debug\1to1002.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\1to1002\1to1002\obj\Debug\1to1002.exe
+C:\Users\angel\Documents\programming\1to1002\1to1002\obj\Debug\1to1002.xml
+C:\Users\angel\Documents\programming\1to1002\1to1002\obj\Debug\1to1002.pdb

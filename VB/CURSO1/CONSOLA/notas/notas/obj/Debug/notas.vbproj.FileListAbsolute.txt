@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\notas\notas\bin\Debug\notas.exe.config
+C:\Users\angel\Documents\programming\notas\notas\bin\Debug\notas.exe
+C:\Users\angel\Documents\programming\notas\notas\bin\Debug\notas.pdb
+C:\Users\angel\Documents\programming\notas\notas\bin\Debug\notas.xml
+C:\Users\angel\Documents\programming\notas\notas\obj\Debug\notas.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\notas\notas\obj\Debug\notas.Resources.resources
+C:\Users\angel\Documents\programming\notas\notas\obj\Debug\notas.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\notas\notas\obj\Debug\notas.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\notas\notas\obj\Debug\notas.exe
+C:\Users\angel\Documents\programming\notas\notas\obj\Debug\notas.xml
+C:\Users\angel\Documents\programming\notas\notas\obj\Debug\notas.pdb

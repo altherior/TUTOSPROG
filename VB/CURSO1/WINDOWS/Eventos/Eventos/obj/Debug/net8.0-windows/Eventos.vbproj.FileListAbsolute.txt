@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\bin\Debug\net8.0-windows\Eventos.exe
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\bin\Debug\net8.0-windows\Eventos.deps.json
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\bin\Debug\net8.0-windows\Eventos.runtimeconfig.json
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\bin\Debug\net8.0-windows\Eventos.dll
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\bin\Debug\net8.0-windows\Eventos.pdb
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\obj\Debug\net8.0-windows\Eventos.Form1.resources
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\obj\Debug\net8.0-windows\Eventos.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\obj\Debug\net8.0-windows\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\obj\Debug\net8.0-windows\Eventos.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\obj\Debug\net8.0-windows\Eventos.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\obj\Debug\net8.0-windows\Eventos.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\obj\Debug\net8.0-windows\Eventos.dll
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\obj\Debug\net8.0-windows\refint\Eventos.dll
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\obj\Debug\net8.0-windows\Eventos.pdb
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\obj\Debug\net8.0-windows\Eventos.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\WINDOWS\Eventos\Eventos\obj\Debug\net8.0-windows\ref\Eventos.dll

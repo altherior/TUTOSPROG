@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\mat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3006CFCA-9059-49F3-ACD0-1743E158FDF2}|mat\\mat.vbproj|c:\\users\\angel\\documents\\programming\\mat\\mat\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3006CFCA-9059-49F3-ACD0-1743E158FDF2}|mat\\mat.vbproj|solutionrelative:mat\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\mat\\mat\\Module1.vb",
+              "RelativeDocumentMoniker": "mat\\Module1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\mat\\mat\\Module1.vb*",
+              "RelativeToolTip": "mat\\Module1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-12T01:40:27.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

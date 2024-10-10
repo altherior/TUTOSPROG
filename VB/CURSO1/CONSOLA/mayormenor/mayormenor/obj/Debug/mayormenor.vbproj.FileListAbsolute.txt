@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\mayormenor\mayormenor\bin\Debug\mayormenor.exe.config
+C:\Users\angel\Documents\programming\mayormenor\mayormenor\bin\Debug\mayormenor.exe
+C:\Users\angel\Documents\programming\mayormenor\mayormenor\bin\Debug\mayormenor.pdb
+C:\Users\angel\Documents\programming\mayormenor\mayormenor\bin\Debug\mayormenor.xml
+C:\Users\angel\Documents\programming\mayormenor\mayormenor\obj\Debug\mayormenor.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\mayormenor\mayormenor\obj\Debug\mayormenor.Resources.resources
+C:\Users\angel\Documents\programming\mayormenor\mayormenor\obj\Debug\mayormenor.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\mayormenor\mayormenor\obj\Debug\mayormenor.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\mayormenor\mayormenor\obj\Debug\mayormenor.exe
+C:\Users\angel\Documents\programming\mayormenor\mayormenor\obj\Debug\mayormenor.xml
+C:\Users\angel\Documents\programming\mayormenor\mayormenor\obj\Debug\mayormenor.pdb

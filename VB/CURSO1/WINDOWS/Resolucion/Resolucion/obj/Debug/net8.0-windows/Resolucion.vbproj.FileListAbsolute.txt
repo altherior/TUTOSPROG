@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\bin\Debug\net8.0-windows\Resolucion.exe
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\bin\Debug\net8.0-windows\Resolucion.deps.json
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\bin\Debug\net8.0-windows\Resolucion.runtimeconfig.json
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\bin\Debug\net8.0-windows\Resolucion.dll
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\bin\Debug\net8.0-windows\Resolucion.pdb
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\obj\Debug\net8.0-windows\Resolucion.Form1.resources
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\obj\Debug\net8.0-windows\Resolucion.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\obj\Debug\net8.0-windows\Resolucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\obj\Debug\net8.0-windows\Resolucion.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\obj\Debug\net8.0-windows\Resolucion.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\obj\Debug\net8.0-windows\Resolucion.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\obj\Debug\net8.0-windows\Resolucion.dll
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\obj\Debug\net8.0-windows\refint\Resolucion.dll
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\obj\Debug\net8.0-windows\Resolucion.pdb
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\obj\Debug\net8.0-windows\Resolucion.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\WINDOWS\Resolucion\Resolucion\obj\Debug\net8.0-windows\ref\Resolucion.dll

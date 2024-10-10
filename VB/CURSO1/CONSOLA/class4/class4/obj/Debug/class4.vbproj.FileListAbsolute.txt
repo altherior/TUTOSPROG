@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\class4\class4\bin\Debug\class4.exe.config
+C:\Users\angel\Documents\programming\class4\class4\bin\Debug\class4.exe
+C:\Users\angel\Documents\programming\class4\class4\bin\Debug\class4.pdb
+C:\Users\angel\Documents\programming\class4\class4\bin\Debug\class4.xml
+C:\Users\angel\Documents\programming\class4\class4\obj\Debug\class4.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\class4\class4\obj\Debug\class4.Resources.resources
+C:\Users\angel\Documents\programming\class4\class4\obj\Debug\class4.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\class4\class4\obj\Debug\class4.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\class4\class4\obj\Debug\class4.exe
+C:\Users\angel\Documents\programming\class4\class4\obj\Debug\class4.xml
+C:\Users\angel\Documents\programming\class4\class4\obj\Debug\class4.pdb

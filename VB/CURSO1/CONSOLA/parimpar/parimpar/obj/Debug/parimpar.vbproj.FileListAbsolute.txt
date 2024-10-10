@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\parimpar\parimpar\bin\Debug\parimpar.exe.config
+C:\Users\angel\Documents\programming\parimpar\parimpar\bin\Debug\parimpar.exe
+C:\Users\angel\Documents\programming\parimpar\parimpar\bin\Debug\parimpar.pdb
+C:\Users\angel\Documents\programming\parimpar\parimpar\bin\Debug\parimpar.xml
+C:\Users\angel\Documents\programming\parimpar\parimpar\obj\Debug\parimpar.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\parimpar\parimpar\obj\Debug\parimpar.Resources.resources
+C:\Users\angel\Documents\programming\parimpar\parimpar\obj\Debug\parimpar.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\parimpar\parimpar\obj\Debug\parimpar.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\parimpar\parimpar\obj\Debug\parimpar.exe
+C:\Users\angel\Documents\programming\parimpar\parimpar\obj\Debug\parimpar.xml
+C:\Users\angel\Documents\programming\parimpar\parimpar\obj\Debug\parimpar.pdb

@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\dosvectores\dosvectores\bin\Debug\dosvectores.exe.config
+C:\Users\angel\Documents\programming\dosvectores\dosvectores\bin\Debug\dosvectores.exe
+C:\Users\angel\Documents\programming\dosvectores\dosvectores\bin\Debug\dosvectores.pdb
+C:\Users\angel\Documents\programming\dosvectores\dosvectores\bin\Debug\dosvectores.xml
+C:\Users\angel\Documents\programming\dosvectores\dosvectores\obj\Debug\dosvectores.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\dosvectores\dosvectores\obj\Debug\dosvectores.Resources.resources
+C:\Users\angel\Documents\programming\dosvectores\dosvectores\obj\Debug\dosvectores.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\dosvectores\dosvectores\obj\Debug\dosvectores.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\dosvectores\dosvectores\obj\Debug\dosvectores.exe
+C:\Users\angel\Documents\programming\dosvectores\dosvectores\obj\Debug\dosvectores.xml
+C:\Users\angel\Documents\programming\dosvectores\dosvectores\obj\Debug\dosvectores.pdb

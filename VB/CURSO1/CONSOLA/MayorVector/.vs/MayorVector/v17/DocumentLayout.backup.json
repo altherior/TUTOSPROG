@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\MayorVector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9BDA13-7B8E-42E9-9E9C-10B7C87E64EB}|MayorVector\\MayorVector.vbproj|c:\\users\\angel\\documents\\programming\\mayorvector\\mayorvector\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D9BDA13-7B8E-42E9-9E9C-10B7C87E64EB}|MayorVector\\MayorVector.vbproj|solutionrelative:mayorvector\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\MayorVector\\MayorVector\\Module1.vb",
+              "RelativeDocumentMoniker": "MayorVector\\Module1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\MayorVector\\MayorVector\\Module1.vb*",
+              "RelativeToolTip": "MayorVector\\Module1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T01:01:55.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

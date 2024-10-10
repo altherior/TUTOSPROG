@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\1to100\1to100\bin\Debug\1to100.exe.config
+C:\Users\angel\Documents\programming\1to100\1to100\bin\Debug\1to100.exe
+C:\Users\angel\Documents\programming\1to100\1to100\bin\Debug\1to100.pdb
+C:\Users\angel\Documents\programming\1to100\1to100\bin\Debug\1to100.xml
+C:\Users\angel\Documents\programming\1to100\1to100\obj\Debug\1to100.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\1to100\1to100\obj\Debug\_1to100.Resources.resources
+C:\Users\angel\Documents\programming\1to100\1to100\obj\Debug\1to100.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\1to100\1to100\obj\Debug\1to100.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\1to100\1to100\obj\Debug\1to100.exe
+C:\Users\angel\Documents\programming\1to100\1to100\obj\Debug\1to100.xml
+C:\Users\angel\Documents\programming\1to100\1to100\obj\Debug\1to100.pdb

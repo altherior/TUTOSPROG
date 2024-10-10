@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\VectorOrden\VectorOrden\bin\Debug\VectorOrden.exe.config
+C:\Users\angel\Documents\programming\VectorOrden\VectorOrden\bin\Debug\VectorOrden.exe
+C:\Users\angel\Documents\programming\VectorOrden\VectorOrden\bin\Debug\VectorOrden.pdb
+C:\Users\angel\Documents\programming\VectorOrden\VectorOrden\bin\Debug\VectorOrden.xml
+C:\Users\angel\Documents\programming\VectorOrden\VectorOrden\obj\Debug\VectorOrden.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\VectorOrden\VectorOrden\obj\Debug\VectorOrden.Resources.resources
+C:\Users\angel\Documents\programming\VectorOrden\VectorOrden\obj\Debug\VectorOrden.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\VectorOrden\VectorOrden\obj\Debug\VectorOrden.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\VectorOrden\VectorOrden\obj\Debug\VectorOrden.exe
+C:\Users\angel\Documents\programming\VectorOrden\VectorOrden\obj\Debug\VectorOrden.xml
+C:\Users\angel\Documents\programming\VectorOrden\VectorOrden\obj\Debug\VectorOrden.pdb

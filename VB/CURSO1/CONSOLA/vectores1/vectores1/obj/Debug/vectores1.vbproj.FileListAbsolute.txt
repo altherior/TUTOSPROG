@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\vectores1\vectores1\obj\Debug\vectores1.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\vectores1\vectores1\obj\Debug\vectores1.Resources.resources
+C:\Users\angel\Documents\programming\vectores1\vectores1\obj\Debug\vectores1.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\vectores1\vectores1\obj\Debug\vectores1.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\vectores1\vectores1\bin\Debug\vectores1.exe.config
+C:\Users\angel\Documents\programming\vectores1\vectores1\bin\Debug\vectores1.exe
+C:\Users\angel\Documents\programming\vectores1\vectores1\bin\Debug\vectores1.pdb
+C:\Users\angel\Documents\programming\vectores1\vectores1\bin\Debug\vectores1.xml
+C:\Users\angel\Documents\programming\vectores1\vectores1\obj\Debug\vectores1.exe
+C:\Users\angel\Documents\programming\vectores1\vectores1\obj\Debug\vectores1.xml
+C:\Users\angel\Documents\programming\vectores1\vectores1\obj\Debug\vectores1.pdb

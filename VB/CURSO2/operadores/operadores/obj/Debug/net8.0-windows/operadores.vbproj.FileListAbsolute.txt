@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\bin\Debug\net8.0-windows\operadores.exe
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\bin\Debug\net8.0-windows\operadores.deps.json
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\bin\Debug\net8.0-windows\operadores.runtimeconfig.json
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\bin\Debug\net8.0-windows\operadores.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\bin\Debug\net8.0-windows\operadores.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\obj\Debug\net8.0-windows\operadores.Form1.resources
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\obj\Debug\net8.0-windows\operadores.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\obj\Debug\net8.0-windows\operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\obj\Debug\net8.0-windows\operadores.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\obj\Debug\net8.0-windows\operadores.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\obj\Debug\net8.0-windows\operadores.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\obj\Debug\net8.0-windows\operadores.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\obj\Debug\net8.0-windows\refint\operadores.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\obj\Debug\net8.0-windows\operadores.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\obj\Debug\net8.0-windows\operadores.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\operadores\operadores\obj\Debug\net8.0-windows\ref\operadores.dll

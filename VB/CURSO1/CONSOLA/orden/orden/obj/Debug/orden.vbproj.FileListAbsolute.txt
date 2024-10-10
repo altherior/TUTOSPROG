@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\orden\orden\bin\Debug\orden.exe.config
+C:\Users\angel\Documents\programming\orden\orden\bin\Debug\orden.exe
+C:\Users\angel\Documents\programming\orden\orden\bin\Debug\orden.pdb
+C:\Users\angel\Documents\programming\orden\orden\bin\Debug\orden.xml
+C:\Users\angel\Documents\programming\orden\orden\obj\Debug\orden.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\orden\orden\obj\Debug\orden.Resources.resources
+C:\Users\angel\Documents\programming\orden\orden\obj\Debug\orden.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\orden\orden\obj\Debug\orden.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\orden\orden\obj\Debug\orden.exe
+C:\Users\angel\Documents\programming\orden\orden\obj\Debug\orden.xml
+C:\Users\angel\Documents\programming\orden\orden\obj\Debug\orden.pdb

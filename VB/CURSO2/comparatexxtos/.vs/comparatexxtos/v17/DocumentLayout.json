@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\comparatexxtos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52CECF69-1B5A-4EE3-86CD-A06778821082}|comparatexxtos\\comparatexxtos.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso2\\comparatexxtos\\comparatexxtos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{52CECF69-1B5A-4EE3-86CD-A06778821082}|comparatexxtos\\comparatexxtos.vbproj|solutionrelative:comparatexxtos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CECF69-1B5A-4EE3-86CD-A06778821082}|comparatexxtos\\comparatexxtos.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso2\\comparatexxtos\\comparatexxtos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{52CECF69-1B5A-4EE3-86CD-A06778821082}|comparatexxtos\\comparatexxtos.vbproj|solutionrelative:comparatexxtos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\comparatexxtos\\comparatexxtos\\Form1.vb",
+              "RelativeDocumentMoniker": "comparatexxtos\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\comparatexxtos\\comparatexxtos\\Form1.vb",
+              "RelativeToolTip": "comparatexxtos\\Form1.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T23:18:19.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\comparatexxtos\\comparatexxtos\\Form1.vb",
+              "RelativeDocumentMoniker": "comparatexxtos\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\comparatexxtos\\comparatexxtos\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "comparatexxtos\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T23:18:09.06Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

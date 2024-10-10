@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\agetoperson\agetoperson\obj\Debug\agetoperson.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\agetoperson\agetoperson\obj\Debug\agetoperson.Resources.resources
+C:\Users\angel\Documents\programming\agetoperson\agetoperson\obj\Debug\agetoperson.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\agetoperson\agetoperson\obj\Debug\agetoperson.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\agetoperson\agetoperson\bin\Debug\agetoperson.exe.config
+C:\Users\angel\Documents\programming\agetoperson\agetoperson\bin\Debug\agetoperson.exe
+C:\Users\angel\Documents\programming\agetoperson\agetoperson\bin\Debug\agetoperson.pdb
+C:\Users\angel\Documents\programming\agetoperson\agetoperson\bin\Debug\agetoperson.xml
+C:\Users\angel\Documents\programming\agetoperson\agetoperson\obj\Debug\agetoperson.exe
+C:\Users\angel\Documents\programming\agetoperson\agetoperson\obj\Debug\agetoperson.xml
+C:\Users\angel\Documents\programming\agetoperson\agetoperson\obj\Debug\agetoperson.pdb

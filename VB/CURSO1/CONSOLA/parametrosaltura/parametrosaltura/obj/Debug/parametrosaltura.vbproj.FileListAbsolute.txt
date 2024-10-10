@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\parametrosaltura\parametrosaltura\bin\Debug\parametrosaltura.exe.config
+C:\Users\angel\Documents\programming\parametrosaltura\parametrosaltura\bin\Debug\parametrosaltura.exe
+C:\Users\angel\Documents\programming\parametrosaltura\parametrosaltura\bin\Debug\parametrosaltura.pdb
+C:\Users\angel\Documents\programming\parametrosaltura\parametrosaltura\bin\Debug\parametrosaltura.xml
+C:\Users\angel\Documents\programming\parametrosaltura\parametrosaltura\obj\Debug\parametrosaltura.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\parametrosaltura\parametrosaltura\obj\Debug\parametrosaltura.Resources.resources
+C:\Users\angel\Documents\programming\parametrosaltura\parametrosaltura\obj\Debug\parametrosaltura.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\parametrosaltura\parametrosaltura\obj\Debug\parametrosaltura.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\parametrosaltura\parametrosaltura\obj\Debug\parametrosaltura.exe
+C:\Users\angel\Documents\programming\parametrosaltura\parametrosaltura\obj\Debug\parametrosaltura.xml
+C:\Users\angel\Documents\programming\parametrosaltura\parametrosaltura\obj\Debug\parametrosaltura.pdb

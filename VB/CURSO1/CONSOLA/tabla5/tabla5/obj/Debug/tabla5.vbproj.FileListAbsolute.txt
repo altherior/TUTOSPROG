@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\tabla5\tabla5\bin\Debug\tabla5.exe.config
+C:\Users\angel\Documents\programming\tabla5\tabla5\bin\Debug\tabla5.exe
+C:\Users\angel\Documents\programming\tabla5\tabla5\bin\Debug\tabla5.pdb
+C:\Users\angel\Documents\programming\tabla5\tabla5\bin\Debug\tabla5.xml
+C:\Users\angel\Documents\programming\tabla5\tabla5\obj\Debug\tabla5.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\tabla5\tabla5\obj\Debug\tabla5.Resources.resources
+C:\Users\angel\Documents\programming\tabla5\tabla5\obj\Debug\tabla5.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\tabla5\tabla5\obj\Debug\tabla5.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\tabla5\tabla5\obj\Debug\tabla5.exe
+C:\Users\angel\Documents\programming\tabla5\tabla5\obj\Debug\tabla5.xml
+C:\Users\angel\Documents\programming\tabla5\tabla5\obj\Debug\tabla5.pdb

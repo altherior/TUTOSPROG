@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\serie25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F96FD8-F003-4E9A-B2C9-745D39E3263E}|serie25\\serie25.vbproj|c:\\users\\angel\\documents\\programming\\serie25\\serie25\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F6F96FD8-F003-4E9A-B2C9-745D39E3263E}|serie25\\serie25.vbproj|solutionrelative:serie25\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\serie25\\serie25\\Module1.vb",
+              "RelativeDocumentMoniker": "serie25\\Module1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\serie25\\serie25\\Module1.vb*",
+              "RelativeToolTip": "serie25\\Module1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-04T23:07:15.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

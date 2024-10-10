@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\triangulos\triangulos\bin\Debug\triangulos.exe.config
+C:\Users\angel\Documents\programming\triangulos\triangulos\bin\Debug\triangulos.exe
+C:\Users\angel\Documents\programming\triangulos\triangulos\bin\Debug\triangulos.pdb
+C:\Users\angel\Documents\programming\triangulos\triangulos\bin\Debug\triangulos.xml
+C:\Users\angel\Documents\programming\triangulos\triangulos\obj\Debug\triangulos.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\triangulos\triangulos\obj\Debug\triangulos.Resources.resources
+C:\Users\angel\Documents\programming\triangulos\triangulos\obj\Debug\triangulos.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\triangulos\triangulos\obj\Debug\triangulos.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\triangulos\triangulos\obj\Debug\triangulos.exe
+C:\Users\angel\Documents\programming\triangulos\triangulos\obj\Debug\triangulos.xml
+C:\Users\angel\Documents\programming\triangulos\triangulos\obj\Debug\triangulos.pdb

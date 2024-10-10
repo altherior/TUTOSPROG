@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\number9999\number9999\bin\Debug\number9999.exe.config
+C:\Users\angel\Documents\programming\number9999\number9999\bin\Debug\number9999.exe
+C:\Users\angel\Documents\programming\number9999\number9999\bin\Debug\number9999.pdb
+C:\Users\angel\Documents\programming\number9999\number9999\bin\Debug\number9999.xml
+C:\Users\angel\Documents\programming\number9999\number9999\obj\Debug\number9999.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\number9999\number9999\obj\Debug\number9999.Resources.resources
+C:\Users\angel\Documents\programming\number9999\number9999\obj\Debug\number9999.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\number9999\number9999\obj\Debug\number9999.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\number9999\number9999\obj\Debug\number9999.exe
+C:\Users\angel\Documents\programming\number9999\number9999\obj\Debug\number9999.xml
+C:\Users\angel\Documents\programming\number9999\number9999\obj\Debug\number9999.pdb

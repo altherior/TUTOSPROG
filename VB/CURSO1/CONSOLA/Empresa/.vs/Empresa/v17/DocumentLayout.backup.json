@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\Empresa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8484FD5D-94F1-4693-B56C-5A159D9FC4B2}|Empresa\\Empresa.vbproj|c:\\users\\angel\\documents\\programming\\empresa\\empresa\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8484FD5D-94F1-4693-B56C-5A159D9FC4B2}|Empresa\\Empresa.vbproj|solutionrelative:empresa\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\Empresa\\Empresa\\Module1.vb",
+              "RelativeDocumentMoniker": "Empresa\\Module1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\Empresa\\Empresa\\Module1.vb*",
+              "RelativeToolTip": "Empresa\\Module1.vb*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T00:16:13.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\alumnosnotas\alumnosnotas\obj\Debug\alumnosnotas.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\alumnosnotas\alumnosnotas\obj\Debug\alumnosnotas.Resources.resources
+C:\Users\angel\Documents\programming\alumnosnotas\alumnosnotas\obj\Debug\alumnosnotas.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\alumnosnotas\alumnosnotas\obj\Debug\alumnosnotas.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\alumnosnotas\alumnosnotas\bin\Debug\alumnosnotas.exe.config
+C:\Users\angel\Documents\programming\alumnosnotas\alumnosnotas\bin\Debug\alumnosnotas.exe
+C:\Users\angel\Documents\programming\alumnosnotas\alumnosnotas\bin\Debug\alumnosnotas.pdb
+C:\Users\angel\Documents\programming\alumnosnotas\alumnosnotas\bin\Debug\alumnosnotas.xml
+C:\Users\angel\Documents\programming\alumnosnotas\alumnosnotas\obj\Debug\alumnosnotas.exe
+C:\Users\angel\Documents\programming\alumnosnotas\alumnosnotas\obj\Debug\alumnosnotas.xml
+C:\Users\angel\Documents\programming\alumnosnotas\alumnosnotas\obj\Debug\alumnosnotas.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\WINDOWS\\Eventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14110D5F-65A0-4175-BE6B-1993D108D032}|Eventos\\Eventos.vbproj|c:\\users\\angel\\documents\\programming\\windows\\eventos\\eventos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{14110D5F-65A0-4175-BE6B-1993D108D032}|Eventos\\Eventos.vbproj|solutionrelative:eventos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14110D5F-65A0-4175-BE6B-1993D108D032}|Eventos\\Eventos.vbproj|c:\\users\\angel\\documents\\programming\\windows\\eventos\\eventos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{14110D5F-65A0-4175-BE6B-1993D108D032}|Eventos\\Eventos.vbproj|solutionrelative:eventos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\WINDOWS\\Eventos\\Eventos\\Form1.vb",
+              "RelativeDocumentMoniker": "Eventos\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\WINDOWS\\Eventos\\Eventos\\Form1.vb",
+              "RelativeToolTip": "Eventos\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T02:31:12.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\WINDOWS\\Eventos\\Eventos\\Form1.vb",
+              "RelativeDocumentMoniker": "Eventos\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\WINDOWS\\Eventos\\Eventos\\Form1.vb [Design]",
+              "RelativeToolTip": "Eventos\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T02:27:52.847Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

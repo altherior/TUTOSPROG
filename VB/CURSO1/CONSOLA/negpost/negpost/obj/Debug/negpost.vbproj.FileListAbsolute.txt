@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\negpost\negpost\bin\Debug\negpost.exe.config
+C:\Users\angel\Documents\programming\negpost\negpost\bin\Debug\negpost.exe
+C:\Users\angel\Documents\programming\negpost\negpost\bin\Debug\negpost.pdb
+C:\Users\angel\Documents\programming\negpost\negpost\bin\Debug\negpost.xml
+C:\Users\angel\Documents\programming\negpost\negpost\obj\Debug\negpost.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\negpost\negpost\obj\Debug\negpost.Resources.resources
+C:\Users\angel\Documents\programming\negpost\negpost\obj\Debug\negpost.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\negpost\negpost\obj\Debug\negpost.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\negpost\negpost\obj\Debug\negpost.exe
+C:\Users\angel\Documents\programming\negpost\negpost\obj\Debug\negpost.xml
+C:\Users\angel\Documents\programming\negpost\negpost\obj\Debug\negpost.pdb

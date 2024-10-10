@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\Sueldos\Sueldos\bin\Debug\Sueldos.exe.config
+C:\Users\angel\Documents\programming\Sueldos\Sueldos\bin\Debug\Sueldos.exe
+C:\Users\angel\Documents\programming\Sueldos\Sueldos\bin\Debug\Sueldos.pdb
+C:\Users\angel\Documents\programming\Sueldos\Sueldos\bin\Debug\Sueldos.xml
+C:\Users\angel\Documents\programming\Sueldos\Sueldos\obj\Debug\Sueldos.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\Sueldos\Sueldos\obj\Debug\Sueldos.Resources.resources
+C:\Users\angel\Documents\programming\Sueldos\Sueldos\obj\Debug\Sueldos.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\Sueldos\Sueldos\obj\Debug\Sueldos.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\Sueldos\Sueldos\obj\Debug\Sueldos.exe
+C:\Users\angel\Documents\programming\Sueldos\Sueldos\obj\Debug\Sueldos.xml
+C:\Users\angel\Documents\programming\Sueldos\Sueldos\obj\Debug\Sueldos.pdb

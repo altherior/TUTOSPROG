@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\Windows1\Windows1\bin\Debug\net8.0-windows\Windows1.exe
+C:\Users\angel\Documents\programming\Windows1\Windows1\bin\Debug\net8.0-windows\Windows1.deps.json
+C:\Users\angel\Documents\programming\Windows1\Windows1\bin\Debug\net8.0-windows\Windows1.runtimeconfig.json
+C:\Users\angel\Documents\programming\Windows1\Windows1\bin\Debug\net8.0-windows\Windows1.dll
+C:\Users\angel\Documents\programming\Windows1\Windows1\bin\Debug\net8.0-windows\Windows1.pdb
+C:\Users\angel\Documents\programming\Windows1\Windows1\obj\Debug\net8.0-windows\Windows1.Form1.resources
+C:\Users\angel\Documents\programming\Windows1\Windows1\obj\Debug\net8.0-windows\Windows1.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\Windows1\Windows1\obj\Debug\net8.0-windows\Windows1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\Windows1\Windows1\obj\Debug\net8.0-windows\Windows1.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\Windows1\Windows1\obj\Debug\net8.0-windows\Windows1.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\Windows1\Windows1\obj\Debug\net8.0-windows\Windows1.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\Windows1\Windows1\obj\Debug\net8.0-windows\Windows1.dll
+C:\Users\angel\Documents\programming\Windows1\Windows1\obj\Debug\net8.0-windows\refint\Windows1.dll
+C:\Users\angel\Documents\programming\Windows1\Windows1\obj\Debug\net8.0-windows\Windows1.pdb
+C:\Users\angel\Documents\programming\Windows1\Windows1\obj\Debug\net8.0-windows\Windows1.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\Windows1\Windows1\obj\Debug\net8.0-windows\ref\Windows1.dll

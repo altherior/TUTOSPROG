@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\comlist\comlist\bin\Debug\comlist.exe.config
+C:\Users\angel\Documents\programming\comlist\comlist\bin\Debug\comlist.exe
+C:\Users\angel\Documents\programming\comlist\comlist\bin\Debug\comlist.pdb
+C:\Users\angel\Documents\programming\comlist\comlist\bin\Debug\comlist.xml
+C:\Users\angel\Documents\programming\comlist\comlist\obj\Debug\comlist.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\comlist\comlist\obj\Debug\comlist.Resources.resources
+C:\Users\angel\Documents\programming\comlist\comlist\obj\Debug\comlist.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\comlist\comlist\obj\Debug\comlist.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\comlist\comlist\obj\Debug\comlist.exe
+C:\Users\angel\Documents\programming\comlist\comlist\obj\Debug\comlist.xml
+C:\Users\angel\Documents\programming\comlist\comlist\obj\Debug\comlist.pdb

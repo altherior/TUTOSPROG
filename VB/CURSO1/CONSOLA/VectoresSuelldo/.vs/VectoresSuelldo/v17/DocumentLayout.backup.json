@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\VectoresSuelldo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9079EA6A-E5A1-4409-824B-0913F210AA56}|VectoresSuelldo\\VectoresSuelldo.vbproj|c:\\users\\angel\\documents\\programming\\vectoressuelldo\\vectoressuelldo\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9079EA6A-E5A1-4409-824B-0913F210AA56}|VectoresSuelldo\\VectoresSuelldo.vbproj|solutionrelative:vectoressuelldo\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VectoresSuelldo\\VectoresSuelldo\\Module1.vb",
+              "RelativeDocumentMoniker": "VectoresSuelldo\\Module1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VectoresSuelldo\\VectoresSuelldo\\Module1.vb*",
+              "RelativeToolTip": "VectoresSuelldo\\Module1.vb*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAzwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-09T16:29:01.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

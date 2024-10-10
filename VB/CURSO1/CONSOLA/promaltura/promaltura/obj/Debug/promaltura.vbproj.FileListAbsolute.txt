@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\promaltura\promaltura\bin\Debug\promaltura.exe.config
+C:\Users\angel\Documents\programming\promaltura\promaltura\bin\Debug\promaltura.exe
+C:\Users\angel\Documents\programming\promaltura\promaltura\bin\Debug\promaltura.pdb
+C:\Users\angel\Documents\programming\promaltura\promaltura\bin\Debug\promaltura.xml
+C:\Users\angel\Documents\programming\promaltura\promaltura\obj\Debug\promaltura.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\promaltura\promaltura\obj\Debug\promaltura.Resources.resources
+C:\Users\angel\Documents\programming\promaltura\promaltura\obj\Debug\promaltura.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\promaltura\promaltura\obj\Debug\promaltura.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\promaltura\promaltura\obj\Debug\promaltura.exe
+C:\Users\angel\Documents\programming\promaltura\promaltura\obj\Debug\promaltura.xml
+C:\Users\angel\Documents\programming\promaltura\promaltura\obj\Debug\promaltura.pdb

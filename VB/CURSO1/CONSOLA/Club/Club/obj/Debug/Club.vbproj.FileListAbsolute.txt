@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\Club\Club\bin\Debug\Club.exe.config
+C:\Users\angel\Documents\programming\Club\Club\bin\Debug\Club.exe
+C:\Users\angel\Documents\programming\Club\Club\bin\Debug\Club.pdb
+C:\Users\angel\Documents\programming\Club\Club\bin\Debug\Club.xml
+C:\Users\angel\Documents\programming\Club\Club\obj\Debug\Club.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\Club\Club\obj\Debug\Club.Resources.resources
+C:\Users\angel\Documents\programming\Club\Club\obj\Debug\Club.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\Club\Club\obj\Debug\Club.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\Club\Club\obj\Debug\Club.exe
+C:\Users\angel\Documents\programming\Club\Club\obj\Debug\Club.xml
+C:\Users\angel\Documents\programming\Club\Club\obj\Debug\Club.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\1to100\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8687F43D-EBC5-4F5F-8DF5-20E7E3A3362F}|1to100\\1to100.vbproj|c:\\users\\angel\\documents\\programming\\1to100\\1to100\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8687F43D-EBC5-4F5F-8DF5-20E7E3A3362F}|1to100\\1to100.vbproj|solutionrelative:1to100\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\1to100\\1to100\\Module1.vb",
+              "RelativeDocumentMoniker": "1to100\\Module1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\1to100\\1to100\\Module1.vb*",
+              "RelativeToolTip": "1to100\\Module1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-04T11:13:09.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

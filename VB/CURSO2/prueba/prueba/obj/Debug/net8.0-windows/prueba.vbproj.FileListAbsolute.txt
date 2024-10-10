@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\bin\Debug\net8.0-windows\prueba.exe
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\bin\Debug\net8.0-windows\prueba.deps.json
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\bin\Debug\net8.0-windows\prueba.runtimeconfig.json
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\bin\Debug\net8.0-windows\prueba.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\bin\Debug\net8.0-windows\prueba.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\obj\Debug\net8.0-windows\prueba.Form1.resources
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\obj\Debug\net8.0-windows\prueba.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\obj\Debug\net8.0-windows\prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\obj\Debug\net8.0-windows\prueba.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\obj\Debug\net8.0-windows\prueba.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\obj\Debug\net8.0-windows\prueba.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\obj\Debug\net8.0-windows\prueba.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\obj\Debug\net8.0-windows\refint\prueba.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\obj\Debug\net8.0-windows\prueba.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\obj\Debug\net8.0-windows\prueba.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\prueba\prueba\obj\Debug\net8.0-windows\ref\prueba.dll

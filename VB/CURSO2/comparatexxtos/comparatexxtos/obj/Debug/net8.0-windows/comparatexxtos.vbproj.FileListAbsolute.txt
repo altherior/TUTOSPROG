@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\bin\Debug\net8.0-windows\comparatexxtos.exe
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\bin\Debug\net8.0-windows\comparatexxtos.deps.json
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\bin\Debug\net8.0-windows\comparatexxtos.runtimeconfig.json
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\bin\Debug\net8.0-windows\comparatexxtos.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\bin\Debug\net8.0-windows\comparatexxtos.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\obj\Debug\net8.0-windows\comparatexxtos.Form1.resources
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\obj\Debug\net8.0-windows\comparatexxtos.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\obj\Debug\net8.0-windows\comparatexxtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\obj\Debug\net8.0-windows\comparatexxtos.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\obj\Debug\net8.0-windows\comparatexxtos.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\obj\Debug\net8.0-windows\comparatexxtos.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\obj\Debug\net8.0-windows\comparatexxtos.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\obj\Debug\net8.0-windows\refint\comparatexxtos.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\obj\Debug\net8.0-windows\comparatexxtos.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\obj\Debug\net8.0-windows\comparatexxtos.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\comparatexxtos\comparatexxtos\obj\Debug\net8.0-windows\ref\comparatexxtos.dll

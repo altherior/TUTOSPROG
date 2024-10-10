@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\Calendar\Calendar\bin\Debug\net8.0-windows\Calendar.exe
+C:\Users\angel\Documents\programming\Calendar\Calendar\bin\Debug\net8.0-windows\Calendar.deps.json
+C:\Users\angel\Documents\programming\Calendar\Calendar\bin\Debug\net8.0-windows\Calendar.runtimeconfig.json
+C:\Users\angel\Documents\programming\Calendar\Calendar\bin\Debug\net8.0-windows\Calendar.dll
+C:\Users\angel\Documents\programming\Calendar\Calendar\bin\Debug\net8.0-windows\Calendar.pdb
+C:\Users\angel\Documents\programming\Calendar\Calendar\obj\Debug\net8.0-windows\Calendar.Form1.resources
+C:\Users\angel\Documents\programming\Calendar\Calendar\obj\Debug\net8.0-windows\Calendar.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\Calendar\Calendar\obj\Debug\net8.0-windows\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\Calendar\Calendar\obj\Debug\net8.0-windows\Calendar.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\Calendar\Calendar\obj\Debug\net8.0-windows\Calendar.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\Calendar\Calendar\obj\Debug\net8.0-windows\Calendar.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\Calendar\Calendar\obj\Debug\net8.0-windows\Calendar.dll
+C:\Users\angel\Documents\programming\Calendar\Calendar\obj\Debug\net8.0-windows\refint\Calendar.dll
+C:\Users\angel\Documents\programming\Calendar\Calendar\obj\Debug\net8.0-windows\Calendar.pdb
+C:\Users\angel\Documents\programming\Calendar\Calendar\obj\Debug\net8.0-windows\Calendar.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\Calendar\Calendar\obj\Debug\net8.0-windows\ref\Calendar.dll

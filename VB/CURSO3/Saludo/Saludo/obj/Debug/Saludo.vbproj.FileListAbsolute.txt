@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\VB\CURSO3\Saludo\Saludo\bin\Debug\Saludo.exe.config
+C:\Users\angel\Documents\programming\VB\CURSO3\Saludo\Saludo\bin\Debug\Saludo.exe
+C:\Users\angel\Documents\programming\VB\CURSO3\Saludo\Saludo\bin\Debug\Saludo.pdb
+C:\Users\angel\Documents\programming\VB\CURSO3\Saludo\Saludo\bin\Debug\Saludo.xml
+C:\Users\angel\Documents\programming\VB\CURSO3\Saludo\Saludo\obj\Debug\Saludo.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\VB\CURSO3\Saludo\Saludo\obj\Debug\Saludo.Resources.resources
+C:\Users\angel\Documents\programming\VB\CURSO3\Saludo\Saludo\obj\Debug\Saludo.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\VB\CURSO3\Saludo\Saludo\obj\Debug\Saludo.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO3\Saludo\Saludo\obj\Debug\Saludo.exe
+C:\Users\angel\Documents\programming\VB\CURSO3\Saludo\Saludo\obj\Debug\Saludo.xml
+C:\Users\angel\Documents\programming\VB\CURSO3\Saludo\Saludo\obj\Debug\Saludo.pdb

@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\sueldoempleados\sueldoempleados\obj\Debug\sueldoempleados.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\sueldoempleados\sueldoempleados\obj\Debug\sueldoempleados.Resources.resources
+C:\Users\angel\Documents\programming\sueldoempleados\sueldoempleados\obj\Debug\sueldoempleados.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\sueldoempleados\sueldoempleados\obj\Debug\sueldoempleados.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\sueldoempleados\sueldoempleados\bin\Debug\sueldoempleados.exe.config
+C:\Users\angel\Documents\programming\sueldoempleados\sueldoempleados\bin\Debug\sueldoempleados.exe
+C:\Users\angel\Documents\programming\sueldoempleados\sueldoempleados\bin\Debug\sueldoempleados.pdb
+C:\Users\angel\Documents\programming\sueldoempleados\sueldoempleados\bin\Debug\sueldoempleados.xml
+C:\Users\angel\Documents\programming\sueldoempleados\sueldoempleados\obj\Debug\sueldoempleados.exe
+C:\Users\angel\Documents\programming\sueldoempleados\sueldoempleados\obj\Debug\sueldoempleados.xml
+C:\Users\angel\Documents\programming\sueldoempleados\sueldoempleados\obj\Debug\sueldoempleados.pdb

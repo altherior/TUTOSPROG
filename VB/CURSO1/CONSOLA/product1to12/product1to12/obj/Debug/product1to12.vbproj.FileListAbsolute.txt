@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\product1to12\product1to12\bin\Debug\product1to12.exe.config
+C:\Users\angel\Documents\programming\product1to12\product1to12\bin\Debug\product1to12.exe
+C:\Users\angel\Documents\programming\product1to12\product1to12\bin\Debug\product1to12.pdb
+C:\Users\angel\Documents\programming\product1to12\product1to12\bin\Debug\product1to12.xml
+C:\Users\angel\Documents\programming\product1to12\product1to12\obj\Debug\product1to12.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\product1to12\product1to12\obj\Debug\product1to12.Resources.resources
+C:\Users\angel\Documents\programming\product1to12\product1to12\obj\Debug\product1to12.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\product1to12\product1to12\obj\Debug\product1to12.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\product1to12\product1to12\obj\Debug\product1to12.exe
+C:\Users\angel\Documents\programming\product1to12\product1to12\obj\Debug\product1to12.xml
+C:\Users\angel\Documents\programming\product1to12\product1to12\obj\Debug\product1to12.pdb

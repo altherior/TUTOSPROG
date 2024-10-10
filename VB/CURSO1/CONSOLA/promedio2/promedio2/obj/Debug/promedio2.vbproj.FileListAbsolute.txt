@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\promedio2\promedio2\bin\Debug\promedio2.exe.config
+C:\Users\angel\Documents\programming\promedio2\promedio2\bin\Debug\promedio2.exe
+C:\Users\angel\Documents\programming\promedio2\promedio2\bin\Debug\promedio2.pdb
+C:\Users\angel\Documents\programming\promedio2\promedio2\bin\Debug\promedio2.xml
+C:\Users\angel\Documents\programming\promedio2\promedio2\obj\Debug\promedio2.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\promedio2\promedio2\obj\Debug\promedio2.Resources.resources
+C:\Users\angel\Documents\programming\promedio2\promedio2\obj\Debug\promedio2.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\promedio2\promedio2\obj\Debug\promedio2.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\promedio2\promedio2\obj\Debug\promedio2.exe
+C:\Users\angel\Documents\programming\promedio2\promedio2\obj\Debug\promedio2.xml
+C:\Users\angel\Documents\programming\promedio2\promedio2\obj\Debug\promedio2.pdb

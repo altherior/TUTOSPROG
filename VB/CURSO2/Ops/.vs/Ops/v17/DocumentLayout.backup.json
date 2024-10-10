@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Ops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CB1D02-E046-423A-9503-B0179E609395}|Ops\\Ops.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso2\\ops\\ops\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D8CB1D02-E046-423A-9503-B0179E609395}|Ops\\Ops.vbproj|solutionrelative:ops\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CB1D02-E046-423A-9503-B0179E609395}|Ops\\Ops.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso2\\ops\\ops\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D8CB1D02-E046-423A-9503-B0179E609395}|Ops\\Ops.vbproj|solutionrelative:ops\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CB1D02-E046-423A-9503-B0179E609395}|Ops\\Ops.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso2\\ops\\ops\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D8CB1D02-E046-423A-9503-B0179E609395}|Ops\\Ops.vbproj|solutionrelative:ops\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Ops\\Ops\\Form2.vb",
+              "RelativeDocumentMoniker": "Ops\\Form2.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Ops\\Ops\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ops\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-23T02:16:02.427Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Ops\\Ops\\Form1.vb",
+              "RelativeDocumentMoniker": "Ops\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Ops\\Ops\\Form1.vb*",
+              "RelativeToolTip": "Ops\\Form1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-23T02:09:33.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Ops\\Ops\\Form1.vb",
+              "RelativeDocumentMoniker": "Ops\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\Ops\\Ops\\Form1.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "Ops\\Form1.vb [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-23T02:09:03.701Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

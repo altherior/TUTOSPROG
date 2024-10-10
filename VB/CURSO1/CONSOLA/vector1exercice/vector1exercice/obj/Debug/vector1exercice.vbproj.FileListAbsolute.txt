@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\vector1exercice\vector1exercice\bin\Debug\vector1exercice.exe.config
+C:\Users\angel\Documents\programming\vector1exercice\vector1exercice\bin\Debug\vector1exercice.exe
+C:\Users\angel\Documents\programming\vector1exercice\vector1exercice\bin\Debug\vector1exercice.pdb
+C:\Users\angel\Documents\programming\vector1exercice\vector1exercice\bin\Debug\vector1exercice.xml
+C:\Users\angel\Documents\programming\vector1exercice\vector1exercice\obj\Debug\vector1exercice.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\vector1exercice\vector1exercice\obj\Debug\vector1exercice.Resources.resources
+C:\Users\angel\Documents\programming\vector1exercice\vector1exercice\obj\Debug\vector1exercice.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\vector1exercice\vector1exercice\obj\Debug\vector1exercice.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\vector1exercice\vector1exercice\obj\Debug\vector1exercice.exe
+C:\Users\angel\Documents\programming\vector1exercice\vector1exercice\obj\Debug\vector1exercice.xml
+C:\Users\angel\Documents\programming\vector1exercice\vector1exercice\obj\Debug\vector1exercice.pdb

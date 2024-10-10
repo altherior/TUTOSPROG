@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\bin\Debug\net8.0-windows\HOLAMUNDO.exe
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\bin\Debug\net8.0-windows\HOLAMUNDO.deps.json
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\bin\Debug\net8.0-windows\HOLAMUNDO.runtimeconfig.json
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\bin\Debug\net8.0-windows\HOLAMUNDO.dll
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\bin\Debug\net8.0-windows\HOLAMUNDO.pdb
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\obj\Debug\net8.0-windows\HOLAMUNDO.Form1.resources
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\obj\Debug\net8.0-windows\HOLAMUNDO.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\obj\Debug\net8.0-windows\HOLAMUNDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\obj\Debug\net8.0-windows\HOLAMUNDO.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\obj\Debug\net8.0-windows\HOLAMUNDO.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\obj\Debug\net8.0-windows\HOLAMUNDO.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\obj\Debug\net8.0-windows\HOLAMUNDO.dll
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\obj\Debug\net8.0-windows\refint\HOLAMUNDO.dll
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\obj\Debug\net8.0-windows\HOLAMUNDO.pdb
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\obj\Debug\net8.0-windows\HOLAMUNDO.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\CURSO2\HOLAMUNDO\HOLAMUNDO\obj\Debug\net8.0-windows\ref\HOLAMUNDO.dll

@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\herencia1\herencia1\bin\Debug\herencia1.exe.config
+C:\Users\angel\Documents\programming\herencia1\herencia1\bin\Debug\herencia1.exe
+C:\Users\angel\Documents\programming\herencia1\herencia1\bin\Debug\herencia1.pdb
+C:\Users\angel\Documents\programming\herencia1\herencia1\bin\Debug\herencia1.xml
+C:\Users\angel\Documents\programming\herencia1\herencia1\obj\Debug\herencia1.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\herencia1\herencia1\obj\Debug\herencia1.Resources.resources
+C:\Users\angel\Documents\programming\herencia1\herencia1\obj\Debug\herencia1.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\herencia1\herencia1\obj\Debug\herencia1.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\herencia1\herencia1\obj\Debug\herencia1.exe
+C:\Users\angel\Documents\programming\herencia1\herencia1\obj\Debug\herencia1.xml
+C:\Users\angel\Documents\programming\herencia1\herencia1\obj\Debug\herencia1.pdb

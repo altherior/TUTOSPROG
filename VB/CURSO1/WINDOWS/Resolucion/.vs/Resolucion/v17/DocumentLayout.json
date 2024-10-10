@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\WINDOWS\\Resolucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40E509D2-FFF0-4421-AB0A-AE406538475A}|Resolucion\\Resolucion.vbproj|c:\\users\\angel\\documents\\programming\\windows\\resolucion\\resolucion\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{40E509D2-FFF0-4421-AB0A-AE406538475A}|Resolucion\\Resolucion.vbproj|solutionrelative:resolucion\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E509D2-FFF0-4421-AB0A-AE406538475A}|Resolucion\\Resolucion.vbproj|c:\\users\\angel\\documents\\programming\\windows\\resolucion\\resolucion\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{40E509D2-FFF0-4421-AB0A-AE406538475A}|Resolucion\\Resolucion.vbproj|solutionrelative:resolucion\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\WINDOWS\\Resolucion\\Resolucion\\Form1.vb",
+              "RelativeDocumentMoniker": "Resolucion\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\WINDOWS\\Resolucion\\Resolucion\\Form1.vb",
+              "RelativeToolTip": "Resolucion\\Form1.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAEwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-18T00:02:43.208Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\WINDOWS\\Resolucion\\Resolucion\\Form1.vb",
+              "RelativeDocumentMoniker": "Resolucion\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\WINDOWS\\Resolucion\\Resolucion\\Form1.vb [Design]",
+              "RelativeToolTip": "Resolucion\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T23:43:29.392Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

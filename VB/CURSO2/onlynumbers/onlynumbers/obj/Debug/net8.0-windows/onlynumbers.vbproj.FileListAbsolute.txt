@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\bin\Debug\net8.0-windows\onlynumbers.exe
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\bin\Debug\net8.0-windows\onlynumbers.deps.json
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\bin\Debug\net8.0-windows\onlynumbers.runtimeconfig.json
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\bin\Debug\net8.0-windows\onlynumbers.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\bin\Debug\net8.0-windows\onlynumbers.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\obj\Debug\net8.0-windows\onlynumbers.Form1.resources
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\obj\Debug\net8.0-windows\onlynumbers.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\obj\Debug\net8.0-windows\onlynumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\obj\Debug\net8.0-windows\onlynumbers.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\obj\Debug\net8.0-windows\onlynumbers.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\obj\Debug\net8.0-windows\onlynumbers.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\obj\Debug\net8.0-windows\onlynumbers.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\obj\Debug\net8.0-windows\refint\onlynumbers.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\obj\Debug\net8.0-windows\onlynumbers.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\obj\Debug\net8.0-windows\onlynumbers.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\onlynumbers\onlynumbers\obj\Debug\net8.0-windows\ref\onlynumbers.dll

@@ -1,0 +1,16 @@
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\bin\Debug\net8.0-windows\FUNCIONES.exe
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\bin\Debug\net8.0-windows\FUNCIONES.deps.json
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\bin\Debug\net8.0-windows\FUNCIONES.runtimeconfig.json
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\bin\Debug\net8.0-windows\FUNCIONES.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\bin\Debug\net8.0-windows\FUNCIONES.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\obj\Debug\net8.0-windows\FUNCIONES.Form1.resources
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\obj\Debug\net8.0-windows\FUNCIONES.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\obj\Debug\net8.0-windows\FUNCIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\obj\Debug\net8.0-windows\FUNCIONES.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\obj\Debug\net8.0-windows\FUNCIONES.AssemblyInfo.vb
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\obj\Debug\net8.0-windows\FUNCIONES.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\obj\Debug\net8.0-windows\FUNCIONES.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\obj\Debug\net8.0-windows\refint\FUNCIONES.dll
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\obj\Debug\net8.0-windows\FUNCIONES.pdb
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\obj\Debug\net8.0-windows\FUNCIONES.genruntimeconfig.cache
+C:\Users\angel\Documents\programming\VB\CURSO2\FUNCIONES\FUNCIONES\obj\Debug\net8.0-windows\ref\FUNCIONES.dll

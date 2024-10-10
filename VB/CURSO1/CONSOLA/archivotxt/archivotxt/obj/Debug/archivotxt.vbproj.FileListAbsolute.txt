@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\archivotxt\archivotxt\bin\Debug\archivotxt.exe.config
+C:\Users\angel\Documents\programming\archivotxt\archivotxt\bin\Debug\archivotxt.exe
+C:\Users\angel\Documents\programming\archivotxt\archivotxt\bin\Debug\archivotxt.pdb
+C:\Users\angel\Documents\programming\archivotxt\archivotxt\bin\Debug\archivotxt.xml
+C:\Users\angel\Documents\programming\archivotxt\archivotxt\obj\Debug\archivotxt.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\archivotxt\archivotxt\obj\Debug\archivotxt.Resources.resources
+C:\Users\angel\Documents\programming\archivotxt\archivotxt\obj\Debug\archivotxt.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\archivotxt\archivotxt\obj\Debug\archivotxt.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\archivotxt\archivotxt\obj\Debug\archivotxt.exe
+C:\Users\angel\Documents\programming\archivotxt\archivotxt\obj\Debug\archivotxt.xml
+C:\Users\angel\Documents\programming\archivotxt\archivotxt\obj\Debug\archivotxt.pdb

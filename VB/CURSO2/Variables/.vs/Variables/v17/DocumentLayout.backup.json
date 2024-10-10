@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\CURSO2\\Variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED3218C-47DD-434A-8750-0AB6258BDB4A}|Variables\\Variables.vbproj|c:\\users\\angel\\documents\\programming\\curso2\\variables\\variables\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3ED3218C-47DD-434A-8750-0AB6258BDB4A}|Variables\\Variables.vbproj|solutionrelative:variables\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED3218C-47DD-434A-8750-0AB6258BDB4A}|Variables\\Variables.vbproj|c:\\users\\angel\\documents\\programming\\curso2\\variables\\variables\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3ED3218C-47DD-434A-8750-0AB6258BDB4A}|Variables\\Variables.vbproj|solutionrelative:variables\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\CURSO2\\Variables\\Variables\\Form1.vb",
+              "RelativeDocumentMoniker": "Variables\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\CURSO2\\Variables\\Variables\\Form1.vb*",
+              "RelativeToolTip": "Variables\\Form1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T02:13:00.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\CURSO2\\Variables\\Variables\\Form1.vb",
+              "RelativeDocumentMoniker": "Variables\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\CURSO2\\Variables\\Variables\\Form1.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "Variables\\Form1.vb [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T02:10:24.153Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

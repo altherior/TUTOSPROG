@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\onlyCharacteres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0E2A91-9BBE-4C03-881A-383B7AB13CCB}|onlyCharacteres\\onlyCharacteres.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso2\\onlycharacteres\\onlycharacteres\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2F0E2A91-9BBE-4C03-881A-383B7AB13CCB}|onlyCharacteres\\onlyCharacteres.vbproj|solutionrelative:onlycharacteres\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0E2A91-9BBE-4C03-881A-383B7AB13CCB}|onlyCharacteres\\onlyCharacteres.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso2\\onlycharacteres\\onlycharacteres\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2F0E2A91-9BBE-4C03-881A-383B7AB13CCB}|onlyCharacteres\\onlyCharacteres.vbproj|solutionrelative:onlycharacteres\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0E2A91-9BBE-4C03-881A-383B7AB13CCB}|onlyCharacteres\\onlyCharacteres.vbproj|c:\\users\\angel\\documents\\programming\\vb\\curso2\\onlycharacteres\\onlycharacteres\\functions\\funciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2F0E2A91-9BBE-4C03-881A-383B7AB13CCB}|onlyCharacteres\\onlyCharacteres.vbproj|solutionrelative:onlycharacteres\\functions\\funciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\onlyCharacteres\\onlyCharacteres\\Form1.vb",
+              "RelativeDocumentMoniker": "onlyCharacteres\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\onlyCharacteres\\onlyCharacteres\\Form1.vb",
+              "RelativeToolTip": "onlyCharacteres\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T23:12:41.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funciones.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\onlyCharacteres\\onlyCharacteres\\functions\\Funciones.vb",
+              "RelativeDocumentMoniker": "onlyCharacteres\\functions\\Funciones.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\onlyCharacteres\\onlyCharacteres\\functions\\Funciones.vb",
+              "RelativeToolTip": "onlyCharacteres\\functions\\Funciones.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T23:07:19.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\onlyCharacteres\\onlyCharacteres\\Form1.vb",
+              "RelativeDocumentMoniker": "onlyCharacteres\\Form1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\VB\\CURSO2\\onlyCharacteres\\onlyCharacteres\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "onlyCharacteres\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T23:04:58.746Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

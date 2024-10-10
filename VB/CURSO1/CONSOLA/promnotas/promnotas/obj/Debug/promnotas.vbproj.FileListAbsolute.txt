@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\promnotas\promnotas\bin\Debug\promnotas.exe.config
+C:\Users\angel\Documents\programming\promnotas\promnotas\bin\Debug\promnotas.exe
+C:\Users\angel\Documents\programming\promnotas\promnotas\bin\Debug\promnotas.pdb
+C:\Users\angel\Documents\programming\promnotas\promnotas\bin\Debug\promnotas.xml
+C:\Users\angel\Documents\programming\promnotas\promnotas\obj\Debug\promnotas.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\promnotas\promnotas\obj\Debug\promnotas.Resources.resources
+C:\Users\angel\Documents\programming\promnotas\promnotas\obj\Debug\promnotas.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\promnotas\promnotas\obj\Debug\promnotas.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\promnotas\promnotas\obj\Debug\promnotas.exe
+C:\Users\angel\Documents\programming\promnotas\promnotas\obj\Debug\promnotas.xml
+C:\Users\angel\Documents\programming\promnotas\promnotas\obj\Debug\promnotas.pdb

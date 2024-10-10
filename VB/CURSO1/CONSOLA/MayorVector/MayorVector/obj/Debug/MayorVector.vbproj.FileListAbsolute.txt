@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\MayorVector\MayorVector\bin\Debug\MayorVector.exe.config
+C:\Users\angel\Documents\programming\MayorVector\MayorVector\bin\Debug\MayorVector.exe
+C:\Users\angel\Documents\programming\MayorVector\MayorVector\bin\Debug\MayorVector.pdb
+C:\Users\angel\Documents\programming\MayorVector\MayorVector\bin\Debug\MayorVector.xml
+C:\Users\angel\Documents\programming\MayorVector\MayorVector\obj\Debug\MayorVector.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\MayorVector\MayorVector\obj\Debug\MayorVector.Resources.resources
+C:\Users\angel\Documents\programming\MayorVector\MayorVector\obj\Debug\MayorVector.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\MayorVector\MayorVector\obj\Debug\MayorVector.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\MayorVector\MayorVector\obj\Debug\MayorVector.exe
+C:\Users\angel\Documents\programming\MayorVector\MayorVector\obj\Debug\MayorVector.xml
+C:\Users\angel\Documents\programming\MayorVector\MayorVector\obj\Debug\MayorVector.pdb

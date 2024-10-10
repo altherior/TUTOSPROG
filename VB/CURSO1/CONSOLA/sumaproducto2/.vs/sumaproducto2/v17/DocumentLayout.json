@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\sumaproducto2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBBF467-D1BB-4FC5-B704-2D56D5ABCFC6}|sumaproducto2\\sumaproducto2.vbproj|c:\\users\\angel\\documents\\programming\\sumaproducto2\\sumaproducto2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EBBF467-D1BB-4FC5-B704-2D56D5ABCFC6}|sumaproducto2\\sumaproducto2.vbproj|solutionrelative:sumaproducto2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\sumaproducto2\\sumaproducto2\\Module1.vb",
+              "RelativeDocumentMoniker": "sumaproducto2\\Module1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\sumaproducto2\\sumaproducto2\\Module1.vb",
+              "RelativeToolTip": "sumaproducto2\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-03T17:18:46.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

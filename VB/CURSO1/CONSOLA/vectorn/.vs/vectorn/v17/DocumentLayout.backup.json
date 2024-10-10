@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\programming\\vectorn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2298E0-EC5F-4796-B6D9-C3CA5B2B8CB4}|vectorn\\vectorn.vbproj|c:\\users\\angel\\documents\\programming\\vectorn\\vectorn\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3C2298E0-EC5F-4796-B6D9-C3CA5B2B8CB4}|vectorn\\vectorn.vbproj|solutionrelative:vectorn\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\programming\\vectorn\\vectorn\\Module1.vb",
+              "RelativeDocumentMoniker": "vectorn\\Module1.vb",
+              "ToolTip": "C:\\Users\\angel\\Documents\\programming\\vectorn\\vectorn\\Module1.vb*",
+              "RelativeToolTip": "vectorn\\Module1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-10T15:07:06.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

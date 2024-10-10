@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\class2\class2\bin\Debug\class2.exe.config
+C:\Users\angel\Documents\programming\class2\class2\bin\Debug\class2.exe
+C:\Users\angel\Documents\programming\class2\class2\bin\Debug\class2.pdb
+C:\Users\angel\Documents\programming\class2\class2\bin\Debug\class2.xml
+C:\Users\angel\Documents\programming\class2\class2\obj\Debug\class2.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\class2\class2\obj\Debug\class2.Resources.resources
+C:\Users\angel\Documents\programming\class2\class2\obj\Debug\class2.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\class2\class2\obj\Debug\class2.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\class2\class2\obj\Debug\class2.exe
+C:\Users\angel\Documents\programming\class2\class2\obj\Debug\class2.xml
+C:\Users\angel\Documents\programming\class2\class2\obj\Debug\class2.pdb

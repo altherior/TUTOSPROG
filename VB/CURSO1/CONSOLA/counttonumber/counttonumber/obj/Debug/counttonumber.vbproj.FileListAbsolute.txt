@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\counttonumber\counttonumber\obj\Debug\counttonumber.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\counttonumber\counttonumber\obj\Debug\counttonumber.Resources.resources
+C:\Users\angel\Documents\programming\counttonumber\counttonumber\obj\Debug\counttonumber.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\counttonumber\counttonumber\obj\Debug\counttonumber.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\counttonumber\counttonumber\bin\Debug\counttonumber.exe.config
+C:\Users\angel\Documents\programming\counttonumber\counttonumber\bin\Debug\counttonumber.exe
+C:\Users\angel\Documents\programming\counttonumber\counttonumber\bin\Debug\counttonumber.pdb
+C:\Users\angel\Documents\programming\counttonumber\counttonumber\bin\Debug\counttonumber.xml
+C:\Users\angel\Documents\programming\counttonumber\counttonumber\obj\Debug\counttonumber.exe
+C:\Users\angel\Documents\programming\counttonumber\counttonumber\obj\Debug\counttonumber.xml
+C:\Users\angel\Documents\programming\counttonumber\counttonumber\obj\Debug\counttonumber.pdb

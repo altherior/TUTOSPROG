@@ -1,0 +1,11 @@
+C:\Users\angel\Documents\programming\VectoresSuelldo\VectoresSuelldo\obj\Debug\VectoresSuelldo.vbproj.AssemblyReference.cache
+C:\Users\angel\Documents\programming\VectoresSuelldo\VectoresSuelldo\obj\Debug\VectoresSuelldo.Resources.resources
+C:\Users\angel\Documents\programming\VectoresSuelldo\VectoresSuelldo\obj\Debug\VectoresSuelldo.vbproj.GenerateResource.cache
+C:\Users\angel\Documents\programming\VectoresSuelldo\VectoresSuelldo\obj\Debug\VectoresSuelldo.vbproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\programming\VectoresSuelldo\VectoresSuelldo\bin\Debug\VectoresSuelldo.exe.config
+C:\Users\angel\Documents\programming\VectoresSuelldo\VectoresSuelldo\bin\Debug\VectoresSuelldo.exe
+C:\Users\angel\Documents\programming\VectoresSuelldo\VectoresSuelldo\bin\Debug\VectoresSuelldo.pdb
+C:\Users\angel\Documents\programming\VectoresSuelldo\VectoresSuelldo\bin\Debug\VectoresSuelldo.xml
+C:\Users\angel\Documents\programming\VectoresSuelldo\VectoresSuelldo\obj\Debug\VectoresSuelldo.exe
+C:\Users\angel\Documents\programming\VectoresSuelldo\VectoresSuelldo\obj\Debug\VectoresSuelldo.xml
+C:\Users\angel\Documents\programming\VectoresSuelldo\VectoresSuelldo\obj\Debug\VectoresSuelldo.pdb
